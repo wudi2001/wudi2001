@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-✨ I am a M.Sc. student from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS).
+✨ I am a M.Sc. student from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). And I am very fortunate to be advised by [Prof. Shuhui Wang](https://people.ucas.edu.cn/~wangshuhui) and [Prof. Li Su](https://people.ucas.ac.cn/~suli).
 <!--
 **wudi2001/wudi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
